@@ -34,3 +34,6 @@
 [submodule "extras/libesphttpd/libesphttpd/lib/heatshrink"]
 	path = extras/libesphttpd/libesphttpd/lib/heatshrink
 	url = https://github.com/atomicobject/heatshrink
+[submodule "extras/esp-cjson"]
+	path = extras/esp-cjson
+	url = https://github.com/maximkulkin/esp-cjson.git
